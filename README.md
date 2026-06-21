@@ -27,7 +27,7 @@ Current capabilities:
 Request:
 
 ```http
-GET /phone/+919797003423
+GET /phone/+912300000000
 ```
 
 Response:
@@ -43,9 +43,9 @@ Response:
       "Asia/Calcutta"
     ],
     "type": "mobile",
-    "international": "+91 97970 03423",
-    "national": "097970 03423",
-    "e164": "+919797003423"
+    "international": "+91 2300000000",
+    "national": "2300000000",
+    "e164": "+912300000000"
   },
 
   "reputation": {
@@ -139,7 +139,7 @@ GET /phone/{number}
 Example:
 
 ```http
-GET /phone/+919797003423
+GET /phone/+912300000000
 ```
 
 ---
